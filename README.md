@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karishma Lakhoo</h1>
-<h3 align="center">A 3rd year Computer Science Student</h3>
+<h3 align="center">A postgraduate Computer Science Student</h3>
 
 - 🔭 I’m currently working on [TrickShot](https://github.com/karishma-lakhoo/TrickShot)
 
